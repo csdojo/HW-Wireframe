@@ -34,10 +34,11 @@ body{
 
 .left {
     background: #ebebeb;
-    width: 495px;
+    width: 48%;
     float: left;
     margin-bottom: 20px;
     padding:40px;
+    height: 260px;
 
 }
 
@@ -65,12 +66,13 @@ body{
 
 .right{
     background: #ebebeb;
-    width: 450px;
+    width: 48%;
     float: left;
     margin-left: 15px;
     margin-bottom: 20px;
     padding: 113px;
-
+    height: 260px;
+    float: right;
 }
 
 .footer {
